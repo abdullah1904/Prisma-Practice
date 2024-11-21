@@ -12,10 +12,3 @@ npx prisma init
 ```shell
 npx prisma migrate dev --name init
 ```
-
-<h3>Database Migration</h3>
-    
-```shell
-npx prisma migrate dev --name init
-```
-    
